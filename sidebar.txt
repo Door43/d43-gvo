@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gvo:home|Door43 (gvo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gvo|d43-gvo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gvo/archive/master.zip|d43-gvo.zip]]
+
+**Recent Changes**
+{{changes>ns = gvo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gvo|Ethnologue data]]
+
